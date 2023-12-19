@@ -18,7 +18,7 @@ const config = require("./config.json")
 const xpList = require('./moreXP.json')
 let moreXPChannelss = xpList.moreXPChannels || [];
 // Events
-client.login(config.token) 
+client.login('MTE3ODM5NzIwNTUwNjI5Nzk1NQ.GOMXGW.YWJ96_qC1ol-xIwOp00XhmbW7lMb3aCrhqpDlI') 
 
 client.on("ready", () => {
   // Check if the table "points" exists.
